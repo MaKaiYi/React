@@ -1,0 +1,36 @@
+.content-background{
+	width: 100%;
+	height: 100vh;
+	background-image: url("../../../static/index.jpeg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:cover;
+}
+.login-in-index{
+	width: 450px;
+	height: 400px;
+	background-color: rgba(266, 266, 266, 0.3);
+	border-radius: 20px;
+    position: absolute;
+    top: 30%;
+    right: 10%;
+}
+.top-title{
+	width: 100%;
+	margin: 0px auto;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 18px;
+	color: black;
+	border-bottom: dashed 1px #909123;
+}
+.form-content{
+	width: 100%;
+	margin: 10px auto;
+	padding: 50px 10px;
+	background-color: rgba(266, 266, 266, 0.3)
+}
+.ant-form-item{
+	margin-bottom: 10px !important;
+}

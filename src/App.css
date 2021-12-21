@@ -1,0 +1,49 @@
+.footer-title{
+	font-size: 0.8rem;
+	color: #666;
+	text-align: center;
+}
+.content{
+	height: 85vh;
+}
+.header{
+	height: 10vh;
+	background-color: #343a40;
+	vertical-align: middle;
+	display: grid;
+}
+.imgPostion{
+	vertical-align: middle;
+}
+.topText{
+	vertical-align: middle;
+}
+.headercontent{
+	display: flex;
+	margin-top: 25px;
+	margin-left: 50px;
+}
+.headercontent span{
+	line-height: 40px;
+	color:#fff;
+	margin-left: 10px;
+}
+.content{
+	width: 100%;
+	display: flex;
+}
+.leftMenu{
+	flex: 1;
+	width: 100%;
+}
+.rigthContent{
+	flex: 3;
+	width: 100%;
+}
+.menuSetClass{
+	height: 700px;
+}
+.setContentWidth{
+	width: 100%;
+	padding: 10px ;
+}
